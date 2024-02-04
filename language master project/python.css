@@ -1,0 +1,26 @@
+*{
+    background-image: url(https://i.pinimg.com/originals/99/b2/74/99b274e38b4bc4513be2b5b3e498d6d7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 2%;
+}
+p{
+    text-align: justify;
+    color: white;
+    margin: 3%;
+  font-weight: bold;
+  padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+iframe{
+    width: 90%;
+    padding: 0;
+    margin-left: 5%;
+    height: 400px;
+    position: absolute;
+}

@@ -1,0 +1,26 @@
+*{
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP._9yKF5mqjmVqTXQTqbAyHgHaEK&pid=Api&P=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 2%;
+}
+p{
+    text-align: justify;
+    color: white;
+    margin: 3%;
+  font-weight: bold;
+  padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+iframe{
+    width: 90%;
+    padding: 0;
+    margin-left: 5%;
+    height: 400px;
+    position: absolute;
+}
